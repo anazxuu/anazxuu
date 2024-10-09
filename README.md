@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python full stack developer**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **anazxuu@proton.me**
 
